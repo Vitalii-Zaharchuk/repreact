@@ -1,0 +1,20 @@
+.obloshka img{
+    height: 200px;
+    width: 1280px;
+}
+.aboutMe{
+    display: flex;
+    margin-top: 50px;
+}
+.ava img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+.infoMe{
+    margin-left: 100px;
+    line-height: 2;
+    font-size: 25px;
+    font-weight: bold;
+}

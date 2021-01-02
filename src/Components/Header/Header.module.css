@@ -1,0 +1,13 @@
+.header{
+    background-color: #333333;
+    height:60px;
+    display: flex;
+}
+.logo{
+    color:rgb(104, 104, 116);
+    font-family: 'Langar', cursive;
+    margin-left: 50px;
+    margin-top: 4px;
+    display: flex;
+    
+}
